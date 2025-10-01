@@ -14,8 +14,7 @@ with st.sidebar:
     )
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
-    **Si Klop (Ensiklopedia Dunia Anak)** dikembangkan untuk membantu anak-anak belajar pengetahuan umum dengan cara menyenangkan.  
-    Tidak hanya sekadar membaca teks, tetapi dengan **visual card**, **fakta singkat**, dan **eksplorasi interaktif**.
+    **Si Klop (Ensiklopedia Dunia Anak)** dikembangkan untuk membantu anak-anak belajar pengetahuan umum dengan cara menyenangkan. Tidak hanya sekadar membaca teks, tetapi dengan **visual card**, **fakta singkat**, dan **eksplorasi interaktif**.
     
     ---
     #### 🔮 Vision Statement
