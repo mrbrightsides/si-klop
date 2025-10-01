@@ -14,23 +14,16 @@ with st.sidebar:
     )
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
-    **Si Klop (Ensiklopedia Dunia Anak)** *lahir dari semangat untuk menjembatani dunia teknologi, literasi, dan spiritualitas.
-    Aplikasi ini bukan sekadar alat belajar, tapi juga ruang eksplorasi di mana anak-anak bisa mengenal huruf, suara, dan makna sambil bermain.
-    
-    Nama Cha-Ca diambil dari singkatan Chain Baca – menegaskan bahwa proses belajar membaca adalah sebuah rantai pengetahuan yang saling menghubungkan: dari huruf ke kata, dari kata ke kalimat, hingga membuka cakrawala baru.
+    **Si Klop (Ensiklopedia Dunia Anak)** dikembangkan untuk membantu anak-anak belajar pengetahuan umum dengan cara menyenangkan.  
+    Tidak hanya sekadar membaca teks, tetapi dengan **visual card**, **fakta singkat**, dan **eksplorasi interaktif**.
     
     ---
     #### 🔮 Vision Statement
-    
-    Kami percaya membaca adalah gerbang peradaban. Visi Cha-Ca adalah:
-
-    📚 Membentuk Generasi Literat – Anak-anak tumbuh dengan kecintaan pada huruf dan kata.
-    
-    🕌 Menguatkan Spiritual Sejak Dini – Melalui huruf hijaiyah, anak tidak hanya belajar membaca, tapi juga mengenal dasar-dasar Al-Qur’an.
-    
-    🎮 Membawa Keceriaan dalam Belajar – Dengan game, cerita, dan reward, belajar jadi kegiatan yang ditunggu, bukan dipaksa.
-    
-    🔗 Integrasi Teknologi & Edukasi – Memanfaatkan inovasi digital (Web3, blockchain, gamifikasi) untuk menciptakan pengalaman belajar yang unik dan berkesinambungan.
+    Membuat anak-anak senang belajar dunia melalui eksplorasi digital yang interaktif, aman, dan penuh imajinasi.
+    Kami percaya bahwa:
+    - Belajar harus **menyenangkan** dan **terhubung dengan dunia nyata**.  
+    - Teknologi bisa menjadi **jembatan pengetahuan**, bukan sekadar hiburan.  
+    - Anak-anak harus dibiasakan **rasa ingin tahu** sejak dini agar tumbuh menjadi pembelajar seumur hidup.
 
     ---
     ### 🧩 Apps Showcase
@@ -40,7 +33,7 @@ with st.sidebar:
     ---
     #### 🙌 Dukungan & kontributor
     
-    - ⭐ **Star / Fork**: [GitHub repo](https://github.com/mrbrightsides/rantai-pms)
+    - ⭐ **Star / Fork**: [GitHub repo](https://github.com/mrbrightsides/si-klop)
     - Built with 💙 by [Khudri](https://s.id/khudri)
     - Dukung pengembangan proyek ini melalui: 
       [💖 GitHub Sponsors](https://github.com/sponsors/mrbrightsides) • 
